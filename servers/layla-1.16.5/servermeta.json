@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/Layla/Layla-Dist/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "layla (Minecraft 1.16.5)",
+    "description": "layla Running Minecraft 1.16.5 (Forge v36.2.39)",
+    "address": "laila.mcsv.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "36.2.39"
+  },
+  "untrackedFiles": []
+}
