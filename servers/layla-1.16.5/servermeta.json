@@ -6,9 +6,9 @@
     "description": "layla Running Minecraft 1.16.5 (Forge v36.2.39)",
     "address": "laila.mcsv.kr",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "라일라 서버 (laila.mcsv.kr)",
+      "largeImageText": "라일라 서버",
+      "largeImageKey": "icon"
     },
     "mainServer": true,
     "autoconnect": true

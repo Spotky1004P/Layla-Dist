@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1129169522859974686",
+    "smallImageText": "icon",
+    "smallImageKey": "icon"
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "laila.mcsv.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "라일라 서버 (laila.mcsv.kr)",
+        "largeImageText": "라일라 서버",
+        "largeImageKey": "icon"
       },
       "mainServer": true,
       "autoconnect": true,
@@ -412,7 +412,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 385758845,
-            "url": "https://github.com/Spotky1004P/Layla-Dist/raw/main/servers/layla-1.16.5/forgemods/required/Pixelmon-1.16.5-9.1.5-universal.jar",
+            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/Mb0qTi8B/Pixelmon-1.16.5-9.1.5-universal.jar",
             "MD5": "a3a9ee1ccc6264831dab69e142df58a8"
           }
         }
