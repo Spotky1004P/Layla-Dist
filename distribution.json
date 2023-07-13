@@ -397,16 +397,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6046996,
-            "url": "https://github.com/Spotky1004P/Layla-Dist/raw/main/servers/layla-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
-          }
-        },
-        {
           "id": "com.pixelmonmod:pixelmon:9.1.5@jar",
           "name": "Pixelmon Mod",
           "type": "ForgeMod",
@@ -414,6 +404,16 @@
             "size": 385758845,
             "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/Mb0qTi8B/Pixelmon-1.16.5-9.1.5-universal.jar",
             "MD5": "a3a9ee1ccc6264831dab69e142df58a8"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.16.5_HD_U_G6_MOD:0.0.0@jar",
+          "name": "OptiFine_1.16.5_HD_U_G6_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 5311141,
+            "url": "https://github.com/Spotky1004P/Layla-Dist/raw/main/servers/layla-1.16.5/libraries/OptiFine_1.16.5_HD_U_G6_MOD.jar",
+            "MD5": "1af574555fe248accd745bd2f56e3555"
           }
         }
       ]
