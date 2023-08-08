@@ -397,13 +397,13 @@
           }
         },
         {
-          "id": "com.pixelmonmod:pixelmon:9.1.5@jar",
+          "id": "com.pixelmonmod:pixelmon:9.1.6@jar",
           "name": "Pixelmon Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 385758845,
-            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/Mb0qTi8B/Pixelmon-1.16.5-9.1.5-universal.jar",
-            "MD5": "a3a9ee1ccc6264831dab69e142df58a8"
+            "size": 400320976,
+            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/nr7jW5mI/Pixelmon-1.16.5-9.1.6-universal.jar",
+            "MD5": "f02ab2b4a528002cecd40771fa771340"
           }
         },
         {
